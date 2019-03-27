@@ -1,1 +1,1 @@
-# Furniture-Inventory-System
+Furniture Management System
