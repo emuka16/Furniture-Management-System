@@ -1,5 +1,5 @@
-### _**Furniture Management System**_
-***
+## _**Furniture Management System**_
+
 
 A furniture company is so complex in itself. It includes many departments inside and it follows many business and operation processes to be a successful business.
 
